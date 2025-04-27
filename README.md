@@ -40,4 +40,4 @@ pip install opencv-python mediapipe
 
 ## 🎥 Explanation Video
 
-[![Watch the demo](https://www.linkedin.com/posts/sathiyapriya-s-22ucs048_facedetection-ai-computervision-activity-7237469650450554880-Q7rZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKubiABTjioeFLfoGOrHXFNNCGvYJ6moX8)
+🎥 [Watch the Video](https://www.linkedin.com/posts/sathiyapriya-s-22ucs048_facedetection-ai-computervision-activity-7237469650450554880-Q7rZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEKubiABTjioeFLfoGOrHXFNNCGvYJ6moX8)
